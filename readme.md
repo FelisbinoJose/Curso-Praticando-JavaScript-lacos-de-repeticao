@@ -1,4 +1,4 @@
-# Faça esse curso de JavaScript e:
+# 📌 Faça esse curso de JavaScript e:
 
 - Revise o conceito de laços de repetição em lógica de programação.
 
@@ -8,4 +8,6 @@
 
 - Pratique o uso de laços de repetição em lógica de programação com exercícios.
 
-## Exercícios
+## ✏️ Exercícios
+
+1 - [Contagem de números](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/contagem-numeros)
