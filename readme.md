@@ -10,4 +10,6 @@
 
 ## ✏️ Exercícios
 
-1 - [Contagem de números](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/contagem-numeros?tab=readme-ov-file)
+### 1️⃣ [Contagem de números](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/contagem-numeros?tab=readme-ov-file)
+
+### 2️⃣ [Contagem regressiva](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/contagem-regressiva)
