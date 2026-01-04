@@ -14,4 +14,4 @@
 
 ### 2️⃣ [Contagem regressiva](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/contagem-regressiva)
 
-### 3️⃣ [Listagem de números par](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/listando-numeros-par?tab=readme-ov-file)
+### 4️⃣ [Exibindo os caracteres](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/exibindo-caracteres)
