@@ -17,3 +17,5 @@
 ### 3️⃣ [Exibindo os caracteres](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/exibindo-caracteres)
 
 ### 4️⃣ [Solicitando nomes](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/solicitanto-nomes)
+
+### 5️⃣ [Veficando acesso restrito](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/verificando-acesso-restrito)
