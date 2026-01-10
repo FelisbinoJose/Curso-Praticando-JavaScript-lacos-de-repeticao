@@ -19,3 +19,5 @@
 ### 4️⃣ [Solicitando nomes](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/solicitanto-nomes)
 
 ### 5️⃣ [Veficando acesso restrito](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/verificando-acesso-restrito)
+
+### 6️⃣ [Veficando acesso restrito](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/somando-primeiros-numeros)
