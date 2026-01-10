@@ -23,3 +23,5 @@
 ### 6️⃣ [Somando primeiros número](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/somando-primeiros-numeros)
 
 ### 7️⃣ [Temporizando aquecimento](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/temporizador-aquecimento)
+
+### 8️⃣ [Registrando caixas processadas](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/registro-caixas-processadas)
