@@ -20,4 +20,4 @@
 
 ### 5️⃣ [Veficando acesso restrito](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/verificando-acesso-restrito)
 
-### 6️⃣ [Veficando acesso restrito](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/somando-primeiros-numeros)
+### 6️⃣ [Somando primeiros número](https://github.com/FelisbinoJose/Curso-Praticando-JavaScript-lacos-de-repeticao/tree/somando-primeiros-numeros)
